@@ -1,0 +1,221 @@
+    body{
+			margin: 0;
+		}
+		header{
+			width: 100%;
+			height: 70px;
+			background-color: #11110F;
+			border-bottom: 8px solid gray;
+		}
+		div#last{
+			width: 100%;
+			height: 300px;
+			background-color:black;
+
+		}
+		div#car{
+			width: 100%;
+			height: 600px;
+			background-image: url('8k.jpg');
+			background-size: 1920px 1080px;
+		}
+		img#logo{
+			float: left;
+			margin-left: 200px;
+			margin-top: 10px;
+			filter: contrast(100%);
+		}
+		h2#blogo{
+			color: white;
+			font-family: verdana;
+			font-style: bold;
+			float: left;
+			margin-left: 20px;
+			margin-top: 14px;
+			letter-spacing: 5px;
+			padding: 5px;
+			text-align: center;
+		}
+		ul#unav{
+			float: left;
+			margin-top: 26px;
+		}
+		li#nav{
+			display: inline-block;
+			list-style: none;
+			color: white;
+			font-family: verdana;
+			margin-left: 35px;
+			font-size: 15px;
+
+		}
+		li#nav:hover{
+			color: red;
+			
+		}
+		input[type="text"]{
+			float: right;
+			width: 250px;
+			height: 20px;
+			border-radius: 20px;
+			margin-right: 30px;
+			margin-top: 18px;
+			padding: 5px;
+			border:none;
+			border: 2px solid gray;
+		}
+		p#pone{
+			color: white;
+			margin: 0px;
+			text-align: right;
+			font-family: verdana;
+			font-size: 15px;
+			text-transform: uppercase;
+			line-height: 35px;
+			letter-spacing: 3px;
+			margin: 20px;
+			background-color: rgb(0,0,0,0.6);
+			border-radius: 10px;
+			padding-right: 20px;
+		}
+		p#ptwo{
+			color: white;
+			margin: 0px;
+			text-align: center;
+			font-family: verdana;
+			font-size: 13px;
+			line-height: 30px;
+			letter-spacing: 3px;
+			margin-left: 150px;
+			margin-right: 150px;
+			text-transform: capitalize;
+			padding-top: 30px;
+			font-style:italic;
+		}
+		pre{
+			margin: 0;
+		}
+		div#sec{
+			width: 100%;
+			height: 180px;
+			background-color: rgb(0,0,0);
+		}
+		
+		div#third{
+			width: 100%;
+			height: 500px;
+			background-color: #11110F;
+			margin: 0;
+		}
+		img#slide1{
+			border:5px solid black;
+			float: left;
+			margin-top: 50px;
+			margin-left: 55px;
+		}
+		img#slide2{
+			border:5px solid black;
+			float: left;
+			margin-top: 50px;
+			margin-left: 15px;
+		}
+		img#slide3{
+			border:5px solid black;
+			float: left;
+			margin-top: 50px;
+			margin-left: 15px;
+		}
+		div#car1{
+			width: 230px;
+			height: 220px;
+			float: left;
+			margin-top: 10px;
+		}
+		div#car2{
+			width: 230px;
+			height: 220px;
+			float: left;
+			margin-top: 10px;
+			margin-left: 250px;
+		}
+		div#car3{
+			width: 230px;
+			height: 220px;
+			float: left;
+			margin-top: 10px;
+			margin-left: 250px;
+
+		}
+		img#speed{
+			margin-top: 20px;
+			margin-left: 70px;
+			float: left;
+		}
+		h4#hspeed{
+			float: left;
+			color: white;
+			font-family: verdana;
+			margin-left: 20px;
+			margin-top: 28px;
+
+		}
+		h4#hengine{
+			float: left;
+			color: white;
+			font-family: verdana;
+			margin-left: 20px;
+			margin-top: 15px;
+
+		}
+		h4#hsea{
+			float: left;
+			color: white;
+			font-family: verdana;
+			margin-left: 20px;
+			margin-top: 15px;
+		}
+		img#eng{
+			margin-top: 5px;
+			margin-left: 70px;
+			float: left;
+		}
+		img#sea{
+			margin-top: 5px;
+			margin-left: 70px;
+			float: left;
+		}
+		div#last1{
+			float: left;
+		}
+		li#lilast1{
+			color: gray;
+			list-style: none;
+			margin: 10px;
+			font-family: verdana;
+			text-transform: capitalize;
+			font-size: 15px;
+		}
+		ul#ulast1{
+			float: left;
+			margin: 0;
+			margin-right: 400px;
+			margin-top: 20px;
+
+		}
+		ul#ulast2{
+			float: left;
+			
+		}
+		h5#hlast{
+			margin: 0;
+			color: white;
+			font-family: verdana;
+			text-transform: uppercase;
+			float: left;
+			margin-top: 230px;
+			margin-right: 400px;
+		}
+		hr{
+			color: white;
+		}
+
